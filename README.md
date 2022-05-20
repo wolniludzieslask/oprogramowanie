@@ -39,8 +39,8 @@ zmieniamy border na 1 (dla tabeli)
 10. W pliku nadmiarowe_zgony_swiat2020_2021.html w edytorze 
 wklejamy tabelę z pliku zgony2020_2021suma1.html
 Opakowujemy tabelę przez
-  <div style= "width: 1000px" class="table-container">
-  <table class='scrollable'>
+    <div style= "width: 1000px" class="table-container">
+    <table class='scrollable'>
 Pierwszą sekcję TR z tabeli przesuwamy przed sekcję TBODY i umieszczamy ją
 w sekcji THEAD
 Zmieniamy z TD na TH dla tego pierwszego wiersza tabeli
