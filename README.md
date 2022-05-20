@@ -49,7 +49,7 @@ Plik zgony_wm2020suma1.html kopiujemy na nadmiarowe_zgony_tabela2021.html
 i zmieniamy szerokość kolumn na takie, jak w pliku tabela.css
 
 Rok 2020
-* 11. Klasa zgony_swiat_wm.FormatZgonySwiatWm
+# 11. Klasa zgony_swiat_wm.FormatZgonySwiatWm
 plik wejściowy world_mortality.csv
 plik wyjściowy zgony_wm2020.txt
 12. Klasa zgony_swiat_wm.ZgonySwiatWm
