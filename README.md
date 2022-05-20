@@ -78,8 +78,8 @@ wklejamy tabelę z pliku zgony_wm2020suma1.html
 Opakowujemy tabelę przez
 <div style= "width: 1000px" class="table-container">
 <table class='scrollable'>
-Pierwszą sekcję TR z tabeli przesuwamy przed <TBODY> i umieszczamy ją
-w sekcji <THEAD>
+Pierwszą sekcję TR z tabeli przesuwamy przed sekcją TBODY i umieszczamy ją
+w sekcji THEAD
 Zmieniamy z TD na TH dla tego pierwszego wiersza tabeli
 
 Plik zgony_wm2020suma1.html kopiujemy na nadmiarowe_zgony_tabela2021.html
@@ -115,8 +115,8 @@ wklejamy tabelę z pliku zgony_wm2021suma1.html
 Opakowujemy tabelę przez
 <div style= "width: 1000px" class="table-container">
 <table class='scrollable'>
-Pierwszą sekcję TR z tabeli przesuwamy przed <TBODY> i umieszczamy ją
-w sekcji <THEAD>
+Pierwszą sekcję TR z tabeli przesuwamy przed sekcją TBODY i umieszczamy ją
+w sekcji THEAD
 Zmieniamy z TD na TH dla tego pierwszego wiersza tabeli
 
 Plik zgony_wm2021suma1.html kopiujemy na nadmiarowe_zgony_tabela2021.html
